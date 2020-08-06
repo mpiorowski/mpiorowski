@@ -1,10 +1,15 @@
 ### Welcome to my little info site. :blush:
 
 ##
-I am Mat, a full stack developer since the beginning of my career. I have the most experience working with React and Spring Boot, but recently i fall in love with React + NodeJs combination. Apart from my normal job, i do some side projects creating applications for small clients, so app from start to bottom are nothing new to me :smile: I always try to keep up with new technology and i am never afraid to learn something new 
+I am Mat, a full stack developer since the beginning of my career. I have the most experience working with React and Spring Boot, but recently i fall in love with React + NodeJs combination. Apart from my normal job, i do some side projects creating applications for small clients, so apps from start to bottom are nothing new to me :smile: I always try to keep up with new technology and i am never afraid to learn something new.
 
-##
-:wrench: I’m currently working on ...
+## Connect with me on Linkedin:  
+Connect with me on Linkedin:  [<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+
+
+## :wrench: I’m currently working on ...
+
+[linkedin]: https://www.linkedin.com/in/mateusz-piorowski/
 
 
 <!--
