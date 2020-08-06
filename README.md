@@ -10,7 +10,7 @@ I have the most experience working with React and Spring Boot, but recently i fa
 <a href="mailto:mateuszpiorowski@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%235d8239?logo=Gmail&logoColor=white&logoPosition=right&labelColor=grey"/></a>
 
 ##
-### :wrench: My newest projects
+### :wrench: My newest projects:
 
 - <a href="https://github.com/mpiorowski/diary-app">Simple diary application with moderator functionality.</a>
 - <a href="https://github.com/mpiorowski/pern-auth">PERN stack app with authorization using JWT tokens.</a>
