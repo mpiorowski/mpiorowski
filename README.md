@@ -6,13 +6,15 @@ I am Mat, a full stack developer since the beginning of my career. Apart from my
 I have the most experience working with React and Spring Boot, but recently i fall in love with React + NodeJs combination. 
 -->
 ### Connect with me:
-[<img alt="LinkedIn" width="22px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-<a href="mailto:mateuszpiorowski@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
+<a href="https://www.linkedin.com/in/mateusz-piorowski/"><img align="left" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%235d8239?logo=LinkedIn&logoColor=white&logoPosition=right&labelColor=000000" /></a>
+<a href="mailto:mateuszpiorowski@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%235d8239?logo=Gmail&logoColor=white&logoPosition=right&labelColor=000000"/></a>
 
 ##
-### :wrench: I’m currently working on  
+### :wrench: My newest projects
 
-[linkedin]: https://www.linkedin.com/in/mateusz-piorowski/  
+- <a href="https://github.com/mpiorowski/diary-app">Simple diary application with moderator functionality.</a>
+- <a href="https://github.com/mpiorowski/pern-auth">PERN stack app with authorization using JWT tokens.</a>
+- <a href="https://github.com/mpiorowski/react-spring-auth">React and Spring application with fully working auth and logging components.</a>
 
 ##
 ### Languages and Tools:  
