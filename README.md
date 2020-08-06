@@ -1,7 +1,7 @@
 ### Welcome to my little info site. :smile:
 
 ###
-I am Mat, a full stack developer since the beginning of my career. Apart from my normal job, i do some side projects creating applications for small clients, so apps from start to end are nothing new to me :blush: I always try to keep up with new technology and i am never afraid to learn something new.
+I am Mat, a full stack developer since the beginning of my career. Apart from my normal job, i do some side projects creating applications for small clients, so apps created from start to end are nothing new to me :blush: I always try to keep up with new technology and i am never afraid to learn something new.
 <!--
 I have the most experience working with React and Spring Boot, but recently i fall in love with React + NodeJs combination. 
 -->
