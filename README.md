@@ -6,8 +6,8 @@ I am Mat, a full stack developer since the beginning of my career. Apart from my
 I have the most experience working with React and Spring Boot, but recently i fall in love with React + NodeJs combination. 
 -->
 ### Connect with me:
-<a href="https://www.linkedin.com/in/mateusz-piorowski/"><img align="left" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%235d8239?logo=LinkedIn&logoColor=white&logoPosition=right&labelColor=000000" /></a>
-<a href="mailto:mateuszpiorowski@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%235d8239?logo=Gmail&logoColor=white&logoPosition=right&labelColor=000000"/></a>
+<a href="https://www.linkedin.com/in/mateusz-piorowski/"><img align="left" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%235d8239?logo=LinkedIn&logoColor=white&logoPosition=right&labelColor=grey" /></a>
+<a href="mailto:mateuszpiorowski@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%235d8239?logo=Gmail&logoColor=white&logoPosition=right&labelColor=grey"/></a>
 
 ##
 ### :wrench: My newest projects
