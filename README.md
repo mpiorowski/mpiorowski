@@ -24,10 +24,10 @@ I have the most experience working with React and Spring Boot, but recently i fa
 <img align="left" alt="React" src="https://img.shields.io/badge/Frameworks-React-%235d8239?logo=React&logoColor=white" />
 <img align="left" alt="NodeJS" src="https://img.shields.io/badge/Frameworks-NodeJS-%235d8239?logo=Node.js&logoColor=white" />
 <img align="left" alt="Spring Boot" src="https://img.shields.io/badge/Frameworks-Spring-%235d8239?logo=Spring&logoColor=white" />
-<img align="left" alt="PostgreSQL" src="https://img.shields.io/badge/SQL-PostgreSQL-%235d8239?logo=PostgreSql&logoColor=white" />  
---
+<img align="left" alt="PostgreSQL" src="https://img.shields.io/badge/SQL-PostgreSQL-%235d8239?logo=PostgreSql&logoColor=white" />
 
-<img align="left" alt="MySQL" src="https://img.shields.io/badge/SQL-MySQL-%235d8239?logo=MySql&logoColor=white" />
+
+<img align="left" alt="MySQL" src="https://img.shields.io/badge/SQL-MySQL-%235d8239?logo=MySql&logoColor=white" />  
 <img align="left" alt="Docker" src="https://img.shields.io/badge/Tools-Docker-%235d8239?logo=Docker&logoColor=white" />
 <img align="left" alt="VSC" src="https://img.shields.io/badge/Tools-VSC-%235d8239?logo=visual-studio-code&logoColor=white" />
 <img align="left" alt="Git" src="https://img.shields.io/badge/Tools-Git-%235d8239?logo=Git&logoColor=white" />
