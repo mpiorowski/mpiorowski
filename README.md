@@ -19,7 +19,7 @@ I have the most experience working with React and Spring Boot, but recently i fa
 ##
 ### Languages and Tools:  
 
-[<img align="left" alt="Docker" src="https://img.shields.io/badge/Tools-Docker-%235d8239?logo=Docker&logoColor=white" />]
+<img align="left" alt="Docker" src="https://img.shields.io/badge/Tools-Docker-%235d8239?logo=Docker&logoColor=white" />
 
 
 
