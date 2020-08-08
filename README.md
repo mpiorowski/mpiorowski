@@ -19,7 +19,7 @@ I have the most experience working with React and Spring Boot, but recently i fa
 ##
 ### Languages and Tools:  
 
-[Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)
+(https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)
 
 https://img.shields.io/badge/Languages-JavaScript-%235d8239?logo=JavaScript&logoColor=white"
 <img align="left" alt="Java" src="https://img.shields.io/badge/Languages-Java-%235d8239?logo=Java&logoColor=white" />  
