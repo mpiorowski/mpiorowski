@@ -10,8 +10,9 @@ I have the most experience working with React and Spring Boot, but recently i fa
 <a href="mailto:mateuszpiorowski@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%235d8239?logo=Gmail&logoColor=white&logoPosition=right&labelColor=grey"/></a>
 
 ##
-### :wrench: My newest  learning projects:
+### :wrench: My newest projects:
 
+- <a href="https://github.com/mpiorowski/bills-management">App for home bills managment (in development).</a>
 - <a href="https://github.com/mpiorowski/pern-auth">PERN stack app with authorization using JWT tokens.</a>
 - <a href="https://github.com/mpiorowski/diary-app">Simple diary application with moderator functionality.</a>
 - <a href="https://github.com/mpiorowski/react-spring-auth">React and Spring application with fully working auth and logging components.</a>
