@@ -12,7 +12,11 @@ I have the most experience working with React and Spring Boot, but recently i fa
 ##
 ### :wrench: My newest projects:
 
-- <a href="https://github.com/mpiorowski/bills-management">App for home bills managment (in development).</a>
+## Running apps:
+- <a href="https://github.com/mpiorowski/bills-management">App for home bills managment (in development).</a> Fell free to log in and test it :) <a href="https://homeit.app">www.homeit.app</a>
+## Repo projects:
+- <a href="https://github.com/mpiorowski/forum">Forum build using NextJs (in development)</a>
+- <a href="https://github.com/mpiorowski/react-query-showcase">React query showcase</a>
 - <a href="https://github.com/mpiorowski/pern-auth">PERN stack app with authorization using JWT tokens.</a>
 - <a href="https://github.com/mpiorowski/diary-app">Simple diary application with moderator functionality.</a>
 - <a href="https://github.com/mpiorowski/react-spring-auth">React and Spring application with fully working auth and logging components.</a>
