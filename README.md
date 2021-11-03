@@ -19,8 +19,8 @@ Fell free to log in and use it! It's free :) https://homeit.app
 
 
 ## Repo projects:
-- <a href="https://github.com/mpiorowski/microservices-ts-fastify-svelte">Microservice app using Svelte, Fastify and GraphQL written in TS</a>
-- <a href="https://github.com/mpiorowski/nextjs-fastify-graphql">Simple forum build using NextJs, Fastify and GraphQL written in TS</a>
+- <a href="https://github.com/mpiorowski/microservices-ts-fastify-svelte">Microservice app using Svelte, Fastify and GraphQL</a>
+- <a href="https://github.com/mpiorowski/nextjs-fastify-graphql">Simple forum build using NextJs, Fastify and GraphQL</a>
 - <a href="https://github.com/mpiorowski/react-query-showcase">React query showcase</a>
 - <a href="https://github.com/mpiorowski/pern-auth">PERN stack app with authorization using JWT tokens.</a>
 - <a href="https://github.com/mpiorowski/diary-app">Simple diary application with moderator functionality.</a>
