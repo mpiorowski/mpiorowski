@@ -1,24 +1,22 @@
-### Welcome to page.
+## Welcome to my page
 
-###
 I am Mat, a full stack developer since the beginning of my career, focusing mainly on JS / React. Apart from my normal job, i do some side projects creating applications for small clients, or something for my personal use :) , so apps created from start to end are nothing new to me. I always try to keep up with new technology and i am never afraid to learn something new. Love working with people!
 <!--
 I have the most experience working with React and Spring Boot, but recently i fall in love with React + NodeJs combination. 
 -->
-### Connect with me:
+## Connect with me
 <a href="https://www.linkedin.com/in/mateusz-piorowski/"><img align="left" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%235d8239?logo=LinkedIn&logoColor=white&logoPosition=right&labelColor=grey" /></a>
 <a href="mailto:mateuszpiorowski@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%235d8239?logo=Gmail&logoColor=white&logoPosition=right&labelColor=grey"/></a>
 
-##
-### :wrench: My newest projects:
+## :wrench: My newest projects
 
-## Running apps:
+### Running apps:
 <a href="https://github.com/mpiorowski/bills-management">App for home bills managment (in development).</a>  
 Check test page: https://test.homeit.app  
 Fell free to log in and use it! It's free :) https://homeit.app
 
 
-## Repo projects:
+### Repo projects:
 - <a href="https://github.com/mpiorowski/microservices-ts-fastify-svelte">Microservice app using Svelte, Fastify and GraphQL</a>
 - <a href="https://github.com/mpiorowski/nextjs-fastify-graphql">Simple forum build using NextJs, Fastify and GraphQL</a>
 - <a href="https://github.com/mpiorowski/react-query-showcase">React query showcase</a>
@@ -26,8 +24,7 @@ Fell free to log in and use it! It's free :) https://homeit.app
 - <a href="https://github.com/mpiorowski/diary-app">Simple diary application with moderator functionality.</a>
 - <a href="https://github.com/mpiorowski/react-spring-auth">React and Spring application with fully working auth and logging components.</a>
 
-##
-### Languages and Tools:  
+## Languages and Tools:  
 
 ![Badge](https://img.shields.io/badge/Languages-JavaScript-%235d8239?logo=JavaScript&logoColor=white)
 ![Badge](https://img.shields.io/badge/Languages-Java-%235d8239?logo=Java&logoColor=white)
