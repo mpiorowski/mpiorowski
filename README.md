@@ -13,7 +13,11 @@ I have the most experience working with React and Spring Boot, but recently i fa
 ### :wrench: My newest projects:
 
 ## Running apps:
-- <a href="https://github.com/mpiorowski/bills-management">App for home bills managment (in development).</a> Fell free to log in and test it :) <a href="https://homeit.app">www.homeit.app</a>
+- <a href="https://github.com/mpiorowski/bills-management">App for home bills managment (in development).</a> 
+Check test page: https://test.homeit.app
+Fell free to log in and use it! It's free :) <a href="https://homeit.app">www.homeit.app</a>
+
+
 ## Repo projects:
 - <a href="https://github.com/mpiorowski/microservices-ts-fastify-svelte">Microservice app using Svelte, Fastify and GraphQL written in TS</a>
 - <a href="https://github.com/mpiorowski/nextjs-fastify-graphql">Simple forum build using NextJs, Fastify and GraphQL written in TS</a>
