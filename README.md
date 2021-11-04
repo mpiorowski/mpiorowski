@@ -20,8 +20,8 @@ Fell free to log in and use it! It's free :) https://homeit.app
 - <a href="https://github.com/mpiorowski/microservices-ts-fastify-svelte">Microservice app using Svelte, Fastify and GraphQL</a> (TS)
 - <a href="https://github.com/mpiorowski/nextjs-fastify-graphql">Simple forum build using NextJs, Fastify and GraphQL</a> (TS)
 - <a href="https://github.com/mpiorowski/pern-auth">PERN stack app with authorization using JWT tokens.</a> (TS)
-- <a href="https://github.com/mpiorowski/diary-app">Simple diary application with moderator functionality.</a> (JS)
-- <a href="https://github.com/mpiorowski/react-spring-auth">React and Spring application with fully working auth and logging components.</a> (JS)
+- <a href="https://github.com/mpiorowski/diary-app">Simple diary application with moderator functionality.</a> (JS + Java)
+- <a href="https://github.com/mpiorowski/react-spring-auth">React and Spring application with fully working auth and logging components.</a> (JS + Java)
 
 ## Languages and Tools:  
 
