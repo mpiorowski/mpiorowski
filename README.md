@@ -1,4 +1,4 @@
-# Welcome to my page
+# Welcome
 
 I am Mat, a full stack developer since the beginning of my career, focusing mainly on TS / React. Apart from my normal job, i do some side projects creating applications for small clients, or something for my personal use, so apps created from start to finish are nothing new to me. I always try to keep up with new technology and i am never afraid to learn something new. Love working with people!
 <!--
