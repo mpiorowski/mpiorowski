@@ -12,7 +12,7 @@ I have the most experience working with React and Spring Boot, but recently i fa
 
 ### Running apps:
 App for home bills managment build using Svelte, Fastify and GraphQL (in development).  
-Deployed on GCP using microservice infrastructure build on Dockers.
+Deployed on GCP using microservice infrastructure build on Dockers.  
 Fell free to log in and use it! It's free :) https://homeit.app
 
 
