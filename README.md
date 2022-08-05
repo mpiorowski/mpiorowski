@@ -11,7 +11,7 @@ I have the most experience working with React and Spring Boot, but recently i fa
 ## :wrench: My newest projects
 
 ### Running apps:
-App for home bills managment build using NextJS, Fastify and GraphQL (in development).  
+App for home bills managment build using Svelte, Fastify and GraphQL (in development).  
 Fell free to log in and use it! It's free :) https://homeit.app
 
 
