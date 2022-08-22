@@ -11,7 +11,7 @@ I am Mat, a full stack developer focusing mainly on Svelte / React / Fastify / G
 - React / ReactNative
 - Fastify / Mercurius
 - PostgreSQL
-- Google Cloud Platform
+- Docker + Google Cloud Platform
 
 ## My newest projects
 
