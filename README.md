@@ -2,7 +2,6 @@
 
 I am Mat, a full stack developer focusing mainly on Svelte / React / Fastify / GCP. Love playing with new things and i always try to keep up with new technology.
 
-## Connect with me
 <a href="https://www.linkedin.com/in/mateusz-piorowski/"><img align="left" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%235d8239?logo=LinkedIn&logoColor=white&logoPosition=right&labelColor=grey" /></a>
 <a href="mailto:mateuszpiorowski@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%235d8239?logo=Gmail&logoColor=white&logoPosition=right&labelColor=grey"/></a>
 
@@ -31,7 +30,7 @@ I am Mat, a full stack developer focusing mainly on Svelte / React / Fastify / G
 - <a href="https://github.com/mpiorowski/diary-app">Simple diary application with moderator functionality.</a> (JS + Java)
 - <a href="https://github.com/mpiorowski/react-spring-auth">React and Spring application with fully working auth and logging components.</a> (JS + Java)
 
-## Languages and Tools:  
+## What i used in old days:  
 
 ![Badge](https://img.shields.io/badge/Languages-JavaScript-%235d8239?logo=JavaScript&logoColor=white)
 ![Badge](https://img.shields.io/badge/Languages-Java-%235d8239?logo=Java&logoColor=white)
