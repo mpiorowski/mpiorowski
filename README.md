@@ -9,8 +9,7 @@ I am Mat, a full stack developer focusing mainly on Svelte / React / Fastify / G
 - Typescript
 - Svelte / SvelteKit
 - React / ReactNative
-- Fastify
-- GraphQL
+- Fastify / Mercurius
 - PostgreSQL
 - Google Cloud Platform
 
