@@ -6,13 +6,23 @@ I am Mat, a full stack developer focusing mainly on Svelte / React / Fastify / G
 <a href="https://www.linkedin.com/in/mateusz-piorowski/"><img align="left" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%235d8239?logo=LinkedIn&logoColor=white&logoPosition=right&labelColor=grey" /></a>
 <a href="mailto:mateuszpiorowski@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%235d8239?logo=Gmail&logoColor=white&logoPosition=right&labelColor=grey"/></a>
 
+## My current tech stack
+- Typescript
+- Svelte / SvelteKit
+- React
+- ReactNative
+- Fastify
+- GraphQL
+- PostgreSQL
+- Google Cloud Platform
+
 ## My newest projects
 
 ### Opened Source:
 [SvelteInit](https://github.com/mpiorowski/svelte-init) - A low-overhead Svelte UI library with the basic, most useful components, to help with the initial development.
 
 ### Private projects:
-[HomeIt](https://homeit.app) - App for home bills managment build using Svelte, Fastify and GraphQL (in development). Fell free to log in and use it! It's free :)
+[HomeIt](https://homeit.app) - App for home bills managment build using Svelte with Fastify and GraphQL as GCP microservices (in development). Fell free to log in and use it! It's free :)
 
 ### Repo projects:
 - <a href="https://github.com/mpiorowski/microservices-ts-fastify-svelte">Microservice app using Svelte, Fastify and GraphQL</a> (TS)
