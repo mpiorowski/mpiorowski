@@ -1,20 +1,20 @@
-# Welcome
+## Hello
 
-I am Mat, a full stack developer since the beginning of my career, focusing mainly on TS / React. Apart from my normal job, i do some side projects creating applications for small clients, or something for my personal use, so apps created from start to finish are nothing new to me. I always try to keep up with new technology and i am never afraid to learn something new. Love working with people!
-<!--
-I have the most experience working with React and Spring Boot, but recently i fall in love with React + NodeJs combination. 
--->
+I am Mat, a full stack developer focusing mainly on Svelte / React / Fastify / GCP. Love playing with new things and i always try to keep up with new technology.
+
 ## Connect with me
 <a href="https://www.linkedin.com/in/mateusz-piorowski/"><img align="left" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%235d8239?logo=LinkedIn&logoColor=white&logoPosition=right&labelColor=grey" /></a>
 <a href="mailto:mateuszpiorowski@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%235d8239?logo=Gmail&logoColor=white&logoPosition=right&labelColor=grey"/></a>
 
 ## My newest projects
 
-### Running apps:
-App for home bills managment build using Svelte, Fastify and GraphQL (in development).  
-Deployed on GCP using microservice infrastructure build on Dockers.  
-Fell free to log in and use it! It's free :) https://homeit.app
+### Opened Source:
+[SvelteInit](https://github.com/mpiorowski/svelte-init)
 
+### Private projects:
+[HomeIt]([https://github.com/mpiorowski/svelte-init](https://homeit.app))
+App for home bills managment build using Svelte, Fastify and GraphQL (in development).
+Fell free to log in and use it! It's free :)
 
 ### Repo projects:
 - <a href="https://github.com/mpiorowski/microservices-ts-fastify-svelte">Microservice app using Svelte, Fastify and GraphQL</a> (TS)
