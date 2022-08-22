@@ -8,8 +8,7 @@ I am Mat, a full stack developer focusing mainly on Svelte / React / Fastify / G
 ## My current tech stack
 - Typescript
 - Svelte / SvelteKit
-- React
-- ReactNative
+- React / ReactNative
 - Fastify
 - GraphQL
 - PostgreSQL
