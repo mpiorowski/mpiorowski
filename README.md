@@ -17,6 +17,7 @@ I am Mat, a full stack developer focusing mainly on Svelte / React / Fastify / G
 
 ### Opened Source:
 [SvelteInit](https://github.com/mpiorowski/svelte-init) - A low-overhead Svelte UI library with the basic, most useful components, to help with the initial development.
+
 [Utils](https://www.npmjs.com/package/@mpiorowski/utils) - A set of utility functions.
 
 ### Private projects:
