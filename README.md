@@ -20,7 +20,7 @@ I am Mat, a full stack developer focusing mainly on Svelte / React / Fastify / G
 
 [Microservices GCP template](https://github.com/mpiorowski/microservices-gcp-template) - A microservices template using SvelteKit, Fastify and PostgreSQL deployed to Google Cloud Platform.
 
-[Utils](https://github.com/mpiorowski/utils) - A set of utility functions.
+[TsUtils](https://github.com/mpiorowski/ts-utils) - A collection of Typescript utility functions and types.
 
 ### Private projects:
 [HomeIT](https://homeit.app) - App for home bills managment build using Svelte with Fastify and GraphQL as GCP microservices (in development). Fell free to log in and use it! It's free :)
