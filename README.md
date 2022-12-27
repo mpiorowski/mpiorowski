@@ -20,6 +20,8 @@ I am Mat, a full stack developer focusing mainly on React / Svelte / Fastify / G
 ### Opened Source:
 [SvelteInit](https://github.com/mpiorowski/svelte-init) - A low-overhead Svelte UI library with the basic, most useful components, to help with the initial development.
 
+[TheGame](https://thegame.live) - Best party game ever created :).
+
 [Microservices GCP template](https://github.com/mpiorowski/microservices-gcp-template) - A microservices template using SvelteKit, Fastify and PostgreSQL deployed to Google Cloud Platform.
 
 [TsUtils](https://github.com/mpiorowski/ts-utils) - A collection of Typescript utility functions and types.
