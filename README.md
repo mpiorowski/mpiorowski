@@ -27,7 +27,7 @@ I am Mat, a full stack developer focusing mainly on React / Svelte / Fastify / G
 [TsUtils](https://github.com/mpiorowski/ts-utils) - A collection of Typescript utility functions and types.
 
 ### Private projects:
-[HomeIT](https://homeit.app) - App for home bills managment build using Svelte with Fastify and GraphQL as GCP microservices (in development). Fell free to log in and use it! It's free :)
+[HomeIT](https://homeit.app) - App for home bills managment build using Svelte with Go as GCP microservices (in development). Fell free to log in and use it! It's free :)
 
 ### Repo projects:
 - <a href="https://github.com/mpiorowski/microservices-ts-fastify-svelte">Microservice app using Svelte, Fastify and GraphQL</a> (TS)
