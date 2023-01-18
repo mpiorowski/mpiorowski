@@ -7,11 +7,11 @@ I am Mat, a full stack developer focusing mainly on React / Svelte / Fastify / G
 
 ## My current tech stack
 - Typescript
-- Golang
+- Go
 - Svelte / SvelteKit
 - React / ReactNative
+- gRPC / Graphql / Websockets
 - Fastify / Mercurius
-- gRPC / Graphql
 - PostgreSQL
 - Docker + Google Cloud Platform
 
