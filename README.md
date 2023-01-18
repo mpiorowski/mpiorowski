@@ -20,7 +20,7 @@ I am Mat, a full stack developer focusing mainly on React / Svelte / Fastify / G
 ### Opened Source:
 [SvelteInit](https://github.com/mpiorowski/svelte-init) - A low-overhead Svelte UI library with the basic, most useful components, to help with the initial development.
 
-[TheGame](https://github.com/mpiorowski/the-game) - Best party game ever created :).
+[TheGame](https://github.com/mpiorowski/the-game) - Best party game ever created :). Build purely on websockets with Go and Svelte.
 
 [Microservices Svelte/GO/gRPC template](https://github.com/mpiorowski/go-svelte-grpc) - SvelteKit + Go + gRPC template with microservices architecture.
 
