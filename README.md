@@ -18,13 +18,14 @@ I am Mat, a full stack developer focusing mainly on React / Svelte / Fastify / G
 ## My newest projects
 
 ### Opened Source:
-[SvelteCli](https://github.com/mpiorowski/svelte-cli) - Svelte cli for fast Svelte/SvelteKit scaffolding using the newest routing. Written fully using Rust.
 
-[SvelteInit](https://github.com/mpiorowski/svelte-init) - A low-overhead Svelte UI library with the basic, most useful components, to help with the initial development.
+[Microservices Svelte/GO/gRPC template](https://github.com/mpiorowski/go-svelte-grpc) - SvelteKit + Go + gRPC template with microservices architecture.
 
 [TheGame](https://github.com/mpiorowski/the-game) - Best party game ever created :). Build purely on websockets with Go and Svelte.
 
-[Microservices Svelte/GO/gRPC template](https://github.com/mpiorowski/go-svelte-grpc) - SvelteKit + Go + gRPC template with microservices architecture.
+[SvelteCli](https://github.com/mpiorowski/svelte-cli) - Svelte cli for fast Svelte/SvelteKit scaffolding using the newest routing. Written fully using Rust.
+
+[SvelteInit](https://github.com/mpiorowski/svelte-init) - A low-overhead Svelte UI library with the basic, most useful components, to help with the initial development.
 
 [Microservices Svelte/NodeJS template](https://github.com/mpiorowski/microservices-gcp-template) - A microservices template using SvelteKit, Fastify and PostgreSQL deployed to Google Cloud Platform.
 
