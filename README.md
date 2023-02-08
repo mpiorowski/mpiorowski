@@ -24,7 +24,7 @@ I am Mat, a full stack developer focusing mainly on Svelte / GO / React / Fastif
 
 [TheGame](https://github.com/mpiorowski/the-game) - Best party game ever created :). Build purely on websockets with Go and Svelte.
 
-[SvelteCli](https://github.com/mpiorowski/svelte-cli) - Svelte cli for fast Svelte/SvelteKit scaffolding using the newest routing. Written fully using Rust.
+[TemplatesCli](https://github.com/mpiorowski/templates-cli) - A simple cli tool that lets You very easly create, manage and use a set of templates for You projects.
 
 [SvelteInit](https://github.com/mpiorowski/svelte-init) - A low-overhead Svelte UI library with the basic, most useful components, to help with the initial development.
 
