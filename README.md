@@ -22,7 +22,9 @@ I am Mat, a full stack developer focusing mainly on Svelte / GO / React / Fastif
 
 [TemplatesCli](https://github.com/mpiorowski/templates-cli) - A simple cli tool that lets You very easly create, manage and use a set of templates for You projects.
 
-[Microservices Svelte/GO/gRPC template](https://github.com/mpiorowski/go-svelte-grpc) - SvelteKit + Go + gRPC template with microservices architecture.
+[Rust/SvelteKit/gRPC Microservices](https://github.com/mpiorowski/rust-grpc) - Rust + SvelteKit + gRPC template with microservices architecture.
+
+[Go/SvelteKit/gRPC Microservices](https://github.com/mpiorowski/go-svelte-grpc) - Go + SvelteKit + gRPC template with microservices architecture.
 
 [TheGame](https://github.com/mpiorowski/the-game) - Best party game ever created :). Build purely on websockets with Go and Svelte.
 
