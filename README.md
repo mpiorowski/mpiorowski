@@ -13,7 +13,7 @@ I am Mat, a full stack developer focusing mainly on Svelte / GO / React / Fastif
 - gRPC / Graphql / Websockets
 - Fastify / Mercurius
 - PostgreSQL
-- Docker + Google Cloud Platform
+- Docker + Google Cloud Platform + Fly.io
 - .....learning Rust cos it is awesome
 
 ## My newest projects
