@@ -28,7 +28,9 @@ I am Mat, a full stack developer focusing mainly on Svelte / GO / React / Fastif
 
 [TheGame](https://github.com/mpiorowski/the-game) - Best party game ever created :). Build purely on websockets with Go and Svelte.
 
-[FirebaseSvelteSsr](https://github.com/mpiorowski/firebase-svelte-ssr) - Firebase authentication using SvelteKit SSR.
+[FirebaseSvelteSSR](https://github.com/mpiorowski/firebase-svelte-ssr) - Firebase authentication using SvelteKit SSR.
+
+[SupabaseSvelteSSR](https://github.com/mpiorowski/supabase-svelte-ssr) - Supabase authentication using SvelteKit SSR.
 
 [SvelteInit](https://github.com/mpiorowski/svelte-init) - A low-overhead Svelte UI library with the basic, most useful components, to help with the initial development.
 
