@@ -18,13 +18,13 @@ Btw, i use Rust.
 - Docker + Google Cloud Platform + Fly.io
 - .....learning Rust cos it is awesome
 
-## My newest projects
+## Open source application
+
+[Rusve](https://github.com/mpiorowski/Rusve) - Open source application build using SvelteKit with Rust as microservices with gRPC.
 
 ### Opened Source:
 
 [TemplatesCli](https://github.com/mpiorowski/templates-cli) - A simple cli tool that lets You very easly create, manage and use a set of templates for You projects.
-
-[Rust/SvelteKit/gRPC Microservices](https://github.com/mpiorowski/rust-grpc) - Rust + SvelteKit + gRPC template with microservices architecture.
 
 [Go/SvelteKit/gRPC Microservices](https://github.com/mpiorowski/go-svelte-grpc) - Go + SvelteKit + gRPC template with microservices architecture.
 
