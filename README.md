@@ -18,7 +18,7 @@ Btw, i use Rust.
 - Docker + Google Cloud Platform + Fly.io
 - .....learning Rust cos it is awesome
 
-## Open source application
+## Application
 
 [Rusve](https://github.com/mpiorowski/Rusve) - Open source application build using SvelteKit with Rust as microservices with gRPC.
 
