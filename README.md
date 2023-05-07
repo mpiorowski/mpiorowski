@@ -2,9 +2,7 @@
 
 ## Hello
 
-I am Mat, a full stack developer focusing mainly on Svelte / GO / React / Fastify / GCP. Love working with people, playing with new things and I always try to keep up with technology.
-
-Btw, i use Rust.
+I am Mat, a full stack developer focusing mainly on Typescript / GO / Rust / Node / Svelte / NextJS / GCP. Love working with people, playing with new things and I trying new technologies.
 
 <a href="https://www.linkedin.com/in/mateusz-piorowski/"><img align="left" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%235d8239?logo=LinkedIn&logoColor=white&logoPosition=right&labelColor=grey" /></a>
 <a href="mailto:mateuszpiorowski@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%235d8239?logo=Gmail&logoColor=white&logoPosition=right&labelColor=grey"/></a>
