@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/26543876/236698648-8c1172c0-1f68-40ae-b15c-610abc9b138b.png)
+
 ## Hello
 
 I am Mat, a full stack developer focusing mainly on Svelte / GO / React / Fastify / GCP. Love working with people, playing with new things and I always try to keep up with technology.
