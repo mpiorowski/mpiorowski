@@ -9,14 +9,13 @@ I am Mat, a full stack developer focusing mainly on Typescript / GO / Rust / Nod
 
 ## My current tech stack
 - Typescript
-- Go
+- Go / Rust
 - Svelte / SvelteKit
 - React / ReactNative
 - gRPC / Graphql / Websockets
 - Fastify / Mercurius
 - PostgreSQL
 - Docker + Google Cloud Platform + Fly.io
-- .....learning Rust cos it is awesome
 
 ### Application
 
