@@ -7,6 +7,15 @@ I am Mat, a full stack developer focusing mainly on Typescript / Go / Rust / Sve
 <a href="https://www.linkedin.com/in/mateusz-piorowski/"><img align="left" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%235d8239?logo=LinkedIn&logoColor=white&logoPosition=right&labelColor=grey" /></a>
 <a href="mailto:mateuszpiorowski@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%235d8239?logo=Gmail&logoColor=white&logoPosition=right&labelColor=grey"/></a>
 
+Trying my strengths in the Twitter/Articles world, with the idea of spreading the love for lesser-known technologies. You can help out by following me :)
+
+[Twitter]: https://img.shields.io/badge/Twitter-37a779?style=for-the-badge
+[Dev]: https://img.shields.io/badge/dev-37a779?style=for-the-badge
+
+[![Twitter]](https://twitter.com/mapiorowski)
+[![Dev]](https://dev.to/mpiorowski)
+
+
 ## My current tech stack
 - Typescript
 - Go / Rust
