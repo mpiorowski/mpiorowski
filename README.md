@@ -2,7 +2,7 @@
 
 ## Hello
 
-I am Mat, a full stack developer focusing mainly on Typescript / Go / Rust / SvelteKit / NextJS. Love working with people, playing with new things and I trying new technologies.
+I am Mat, a full stack developer focusing mainly on Typescript / Go / Rust / SvelteKit / NextJS. Love working with people and playing with new technologies.
 
 Trying my strengths in the Twitter/Articles world, with the idea of spreading the love for lesser-known technologies. You can help out by following me :)
 
