@@ -26,6 +26,7 @@ Trying my strengths in the Twitter/Articles world, with the idea of spreading th
 - Docker + Google Cloud Platform + Fly.io
 
 ### Application
+[UpSend](https://www.upsend.app) - The easiest way to kick off your next project with files, images and emails.
 
 [Rusve](https://github.com/mpiorowski/Rusve) - Open source application build using SvelteKit with Rust as microservices with gRPC.
 
