@@ -4,6 +4,8 @@
 
 I am Mat, a full stack developer focusing mainly on Typescript / Go / Rust / SvelteKit / NextJS. Love working with people and playing with new technologies.
 
+I am also the creator / CEO of the [UpSend](https://www.upsend.app), the easiest way to kick off your next project with files, images and emails. Feel free to try it out :).
+
 Trying my strengths in the Twitter/Articles world, with the idea of spreading the love for lesser-known technologies. You can help out by following me :)
 
 [Twitter]: https://img.shields.io/badge/Twitter-37a779?style=for-the-badge
@@ -24,7 +26,6 @@ Trying my strengths in the Twitter/Articles world, with the idea of spreading th
 - Docker + Google Cloud Platform + Fly.io
 
 ### Application
-[UpSend](https://www.upsend.app) - The easiest way to kick off your next project with files, images and emails.
 
 [Rusve](https://github.com/mpiorowski/Rusve) - Open source application build using SvelteKit with Rust as microservices with gRPC.
 
