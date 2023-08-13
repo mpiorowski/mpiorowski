@@ -4,7 +4,7 @@
 
 I am Mat, a full stack developer focusing mainly on Typescript / Go / Rust / SvelteKit / NextJS. Love working with people and playing with new technologies.
 
-I am also the creator / CEO of the [UpSend](https://www.upsend.app), the easiest way to kick off your next project with files, images and emails. Feel free to try it out :).
+I am also the creator / CEO of the [UpSend](https://www.upsend.app), the easiest way to kick off your next project with files, images and emails. Feel free to try it out, as it's free!
 
 Trying my strengths in the Twitter/Articles world, with the idea of spreading the love for lesser-known technologies. You can help out by following me :)
 
