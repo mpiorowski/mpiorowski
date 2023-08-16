@@ -6,7 +6,7 @@ I am Mat, a full stack developer focusing mainly on Typescript / Go / Rust / Sve
 
 I am also the creator / CEO of the [UpSend](https://www.upsend.app), the easiest way to kick off your next project with files, images and emails. Feel free to try it out, as it's free!
 
-Trying my strengths in the Twitter/Articles world, with the idea of spreading the love for lesser-known technologies. You can help out by following me :)
+Trying to spread the love for lesser-known technologies via Articles and Twitter. You can help out by following me :)
 
 [Twitter]: https://img.shields.io/badge/Twitter-37a779?style=for-the-badge
 [Dev]: https://img.shields.io/badge/dev-37a779?style=for-the-badge
