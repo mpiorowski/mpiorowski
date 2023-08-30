@@ -2,9 +2,11 @@
 
 ## Hello
 
-I am Mat, a full stack developer focusing mainly on Typescript / Go / Rust / SvelteKit / NextJS. Love working with people and playing with new technologies.
+I am Mat, a senior full-stack developer. Fan of Svelte, Go and Rust. And a little obsessed with bears.
 
-I am also the creator / CEO of the [UpSend](https://www.upsend.app), the easiest way to kick off your next project with files, images and emails. Feel free to try it out, as it's free!
+I've been coding since 2012 and have never stopped loving it. For me, each new programming task is like a small puzzle to solve - the more challenging, the better. And when I find an elegant and efficient solution ... that is truly satisfying.
+
+I am also the creator / CEO of the [UpSend](https://www.upsend.app), the easiest way to manage files, images and emails. Feel free to try it out, as it's free!
 
 Trying to spread the love for lesser-known technologies via Articles and Twitter. You can help out by following me :)
 
@@ -17,13 +19,15 @@ Trying to spread the love for lesser-known technologies via Articles and Twitter
 
 ## My current tech stack
 - Typescript
-- Go / Rust
+- Go
+- Rust
 - Svelte / SvelteKit
-- NextJS / React / ReactNative
+- React / NextJS / ReactNative
 - gRPC / Graphql / Websockets
-- Fastify / Mercurius
-- PostgreSQL / MySQL
-- Docker + Google Cloud Platform + Fly.io
+- Node.js / Fastify
+- SQLite / PostgreSQL / MySQL
+- Docker
+- Google Cloud Platform
 
 ### Application
 [UpSend](https://www.upsend.app) - The easiest way to kick off your next project with files, images and emails.
