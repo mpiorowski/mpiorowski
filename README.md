@@ -30,13 +30,15 @@ Trying to spread the love for lesser-known technologies via Articles and Twitter
 - Google Cloud Platform
 
 ### Application
-[UpSend](https://www.upsend.app) - The easiest way to kick off your next project with files, images and emails.
+[UpSend](https://www.upsend.app) - The easiest way to manage files, images and emails. And it's free.
 
 [Rusve](https://github.com/mpiorowski/Rusve) - Open source application build using SvelteKit with Rust as microservices with gRPC.
 
 ### Opened Source:
 
 [TemplatesCli](https://github.com/mpiorowski/templates-cli) - A simple cli tool that lets You very easly create, manage and use a set of templates for You projects.
+
+[SvelteAuth](https://github.com/mpiorowski/svelte-auth) - Ultimate SvelteKit authentication guide with different providers.
 
 [Go/SvelteKit/gRPC Microservices](https://github.com/mpiorowski/go-svelte-grpc) - Go + SvelteKit + gRPC template with microservices architecture.
 
