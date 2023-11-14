@@ -36,13 +36,13 @@ Trying to spread the love for lesser-known technologies via Articles and Twitter
 
 [Rusve](https://github.com/mpiorowski/Rusve) - Open source application build using SvelteKit with Rust as microservices with gRPC.
 
+[SGSG (Svelte-Go-SQLite-gRPC)](https://github.com/mpiorowski/sgsg) - Open source application build using the easiest stack (Go + Svelte) with minimal external libraries.
+
 ### Opened Source:
 
 [TemplatesCli](https://github.com/mpiorowski/templates-cli) - A simple cli tool that lets You very easly create, manage and use a set of templates for You projects.
 
 [SvelteAuth](https://github.com/mpiorowski/svelte-auth) - Ultimate SvelteKit authentication guide with different providers.
-
-[Go/SvelteKit/gRPC Microservices](https://github.com/mpiorowski/go-svelte-grpc) - Go + SvelteKit + gRPC template with microservices architecture.
 
 [TheGame](https://github.com/mpiorowski/the-game) - Best party game ever created :). Build purely on websockets with Go and Svelte.
 
