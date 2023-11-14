@@ -36,7 +36,7 @@ Trying to spread the love for lesser-known technologies via Articles and Twitter
 
 [Rusve](https://github.com/mpiorowski/Rusve) - Open source application build using SvelteKit with Rust as microservices with gRPC.
 
-[SGSG (Svelte-Go-SQLite-gRPC)](https://github.com/mpiorowski/sgsg) - Open source application build using the easiest stack (Go + Svelte) with minimal external libraries.
+[SGSG (Svelte-Go-SQLite-gRPC)](https://github.com/mpiorowski/sgsg) - Open source application build using the easiest stack (Go + Svelte) with minimal external libraries. Also full typesafety using JSDocs.
 
 ### Opened Source:
 
