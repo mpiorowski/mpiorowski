@@ -8,7 +8,7 @@ I am Mat, a senior full-stack developer. Fan of Svelte, Go and Rust. And a littl
 
 I've been coding since 2012 and have never stopped loving it. For me, each new programming task is like a small puzzle to solve - the more challenging, the better. And when I find an elegant and efficient solution ... that is truly satisfying.
 
-I am also the creator of the [UpSend](https://www.upsend.app), the easiest way to manage files, images, and emails in your application. Feel free to try it out, as it's free!
+Right now the creator of two applications, [GoFast](https://gofast.live) and [UpSend](https://www.upsend.app). Feel free to check them out.
 
 Trying to spread the love for lesser-known technologies via Articles and Twitter. You can help out by following me :)
 
@@ -32,6 +32,8 @@ Trying to spread the love for lesser-known technologies via Articles and Twitter
 - Google Cloud Platform
 
 ### Application
+
+[GoFast](https://gofast.live) - The Ultimate Foundation for High-Performance, Scalable Web Applications with the Power of Golang and SvelteKit/Next.js. Backed by a powerful CLI.
 
 [UpSend](https://www.upsend.app) - The easiest way to manage files, images, and emails in your application. And it's free!
 
