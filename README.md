@@ -25,6 +25,7 @@ Trying to spread the love for lesser-known technologies via Articles and Twitter
 - Rust
 - Svelte / SvelteKit
 - React / NextJS / ReactNative
+- Vue.js / Nuxt
 - gRPC / Graphql / Websockets
 - Node.js / Fastify
 - SQLite / PostgreSQL / MySQL
