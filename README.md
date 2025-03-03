@@ -8,7 +8,15 @@ I am Mat, a senior full-stack developer. Fan of Svelte, Go and Rust. And a littl
 
 I've been coding since 2012 and have never stopped loving it. For me, each new programming task is like a small puzzle to solve - the more challenging, the better. And when I find an elegant and efficient solution ... that is truly satisfying.
 
-Right now the creator of two applications, [GoFast](https://gofast.live) and [UpSend](https://www.upsend.app). Feel free to check them out.
+Currently have a pleasure of working at Solace as Head of Development.
+
+Right now the creator of:
+
+- [GoFast](https://gofast.live) - The Ultimate Foundation for building High-Performance, Scalable, Modern Web Applications. Backed by a powerful CLI.
+
+- [DwarfForge](https://dwarfforge.io) - Forge Your App Ideas into Reality. Turn your ideas into fully-functional apps without ANY upfront costs.
+
+- [UpSend](https://upsend.app) - The easiest way to manage files, images, and emails in your application. And it's free!
 
 Trying to spread the love for lesser-known technologies via Articles and Twitter. You can help out by following me :)
 
@@ -35,6 +43,8 @@ Trying to spread the love for lesser-known technologies via Articles and Twitter
 ### Application
 
 [GoFast](https://gofast.live) - The Ultimate Foundation for High-Performance, Scalable Web Applications with the Power of Golang and SvelteKit/Next.js. Backed by a powerful CLI.
+
+[DwarfForge](https://dwarfforge.io) - Forge Your App Ideas into Reality. Turn your ideas into fully-functional apps without ANY upfront costs.
 
 [UpSend](https://www.upsend.app) - The easiest way to manage files, images, and emails in your application. And it's free!
 
