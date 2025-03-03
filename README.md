@@ -37,7 +37,7 @@ Trying to spread the love for lesser-known technologies via Articles and Twitter
 - gRPC / Graphql / Websockets
 - Node.js / Fastify
 - SQLite / PostgreSQL / MySQL
-- Docker
+- Docker / Kubernetes
 - Google Cloud Platform
 
 ### Application
