@@ -12,7 +12,7 @@ Currently have a pleasure of working at Solace as Head of Development.
 
 Right now the creator of:
 
-- [SafeTrigger](https://safetrigger.app) - SafeTrigger is a zero-knowledge digital vault that lets you securely store, encrypt, and share sensitive files with trusted recipients—only when the time is right.
+- [SafeTrigger](https://safetrigger.app) - Zero-knowledge digital vault that lets you securely store, encrypt, and share sensitive files with trusted recipients—only when the time is right.
 
 - [GoFast](https://gofast.live) - The Ultimate Foundation for building High-Performance, Scalable, Modern Web Applications. Backed by a powerful CLI.
 
