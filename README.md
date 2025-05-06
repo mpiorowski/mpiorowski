@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/26543876/236698648-8c1172c0-1f68-40ae-b15c-610abc9b138b.png)
 
-https://www.bearbyte.org/
+https://bearbyte.org/
 
 ## Hello
 
@@ -12,9 +12,9 @@ Currently have a pleasure of working at Solace as Head of Development.
 
 Right now the creator of:
 
-- [SafeTrigger](https://safetrigger.app) - Zero-knowledge digital vault that lets you securely store, encrypt, and share sensitive files with trusted recipients—only when the time is right.
-
 - [GoFast](https://gofast.live) - The Ultimate Foundation for building High-Performance, Scalable, Modern Web Applications. Backed by a powerful CLI.
+ 
+- [SafeTrigger](https://safetrigger.app) - Zero-knowledge digital vault that lets you securely store, encrypt, and share sensitive files with trusted recipients—only when the time is right.
 
 - [DwarfForge](https://dwarfforge.io) - Forge Your App Ideas into Reality. Turn your ideas into fully-functional apps without ANY upfront costs.
 
