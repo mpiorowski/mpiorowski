@@ -4,7 +4,7 @@ https://bearbyte.org/
 
 ## Hello
 
-I am Mat, a senior full-stack developer. Fan of Svelte, Go and Rust. And a little obsessed with bears.
+I am Mat, a principal software developer. Fan of Svelte, Go and Rust. And a little obsessed with bears.
 
 I've been coding since 2012 and have never stopped loving it. For me, each new programming task is like a small puzzle to solve - the more challenging, the better. And when I find an elegant and efficient solution ... that is truly satisfying.
 
@@ -12,7 +12,7 @@ Currently have a pleasure of working at Solace as Head of Development.
 
 Right now the creator of:
 
-- [GoFast](https://gofast.live) - The Ultimate Foundation for building High-Performance, Scalable, Modern Web Applications. Backed by a powerful CLI.
+- [GoFast](https://gofast.live) - The Ultimate Go Foundation for High-Performance, Scalable, Modern Web Applications. Accelerate Development with a powerful CLI.
  
 - [SafeTrigger](https://safetrigger.app) - Zero-knowledge digital vault that lets you securely store, encrypt, and share sensitive files with trusted recipients—only when the time is right.
 
