@@ -42,14 +42,6 @@ Trying to spread the love for lesser-known technologies via Articles and Twitter
 - Docker / Kubernetes
 - Google Cloud Platform
 
-### Application
-
-[GoFast](https://gofast.live) - The Ultimate Foundation for High-Performance, Scalable Web Applications with the Power of Golang and SvelteKit/Next.js. Backed by a powerful CLI.
-
-[DwarfForge](https://dwarfforge.io) - Forge Your App Ideas into Reality. Turn your ideas into fully-functional apps without ANY upfront costs.
-
-[UpSend](https://www.upsend.app) - The easiest way to manage files, images, and emails in your application. And it's free!
-
 ### Opened Source:
 
 [SGSG](https://github.com/mpiorowski/sgsg) - Open source application build using the easiest stack (Svelte-Go-SQLite-gRPC) with minimal external libraries. Also full typesafety using JSDocs.
