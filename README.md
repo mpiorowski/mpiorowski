@@ -33,8 +33,8 @@ Trying to spread the love for lesser-known technologies via Articles and Twitter
 - Typescript
 - Go
 - Rust
-- Svelte / SvelteKit
 - React / NextJS / ReactNative
+- Svelte / SvelteKit
 - Vue.js / Nuxt
 - gRPC / Graphql / Websockets
 - Node.js / Fastify
