@@ -30,17 +30,14 @@ Trying to spread the love for lesser-known technologies via Articles and Twitter
 
 
 ## My current tech stack
-- Typescript
-- Go
-- Rust
-- React / NextJS / ReactNative
-- Svelte / SvelteKit
-- Vue.js / Nuxt
-- gRPC / Graphql / Websockets
-- Node.js / Fastify
-- SQLite / PostgreSQL / MySQL
-- Docker / Kubernetes
-- Google Cloud Platform
+| | |
+| :--- | :--- |
+| Languages | TypeScript, Go, Rust |
+| Frontend | React (Next.js), React Native, Svelte (SvelteKit), Vue (Nuxt) |
+| Backend & APIs | Go, Rust, Node.js, gRPC, GraphQL |
+| Databases | PostgreSQL, MySQL, SQLite, Redis |
+| Infrastructure & DevOps | Docker, Kubernetes, Google Cloud Platform |
+| Development Tools| Neovim, Git, Linux |
 
 ### Opened Source:
 
