@@ -4,7 +4,7 @@ https://bearbyte.org/
 
 ## Hello
 
-I am Mat, a principal software developer. Fan of Svelte, Go (+ HTMX) and Rust. And a little obsessed with bears.
+I am Mat, a Principal Software Engineer. Fan of TypeScript, Go (+ HTMX) and Rust. And a little obsessed with bears.
 
 I've been coding since 2012 and have never stopped loving it. For me, each new programming task is like a small puzzle to solve - the more challenging, the better. And when I find an elegant and efficient solution ... that is truly satisfying.
 
