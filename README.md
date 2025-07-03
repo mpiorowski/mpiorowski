@@ -20,7 +20,7 @@ Creator of:
 
 - [UpSend](https://upsend.app) - The easiest way to manage files, images, and emails in your application. And it's free!
 
-I am also running a Discord server focused on modern web development, sharing articles, news, and ideas - [Discord](https://discord.com/invite/EdSZbQbRyJ)
+I am also running a [Discord](https://discord.com/invite/EdSZbQbRyJ) server focused on modern web development, sharing articles, news, and ideas.
 
 I'm trying to spread the love for lesser-known technologies via Articles and Twitter. You can help out by following me :)
 
