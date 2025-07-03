@@ -4,11 +4,11 @@ https://bearbyte.org/
 
 ## Hello
 
-I am Mat, a Principal Software Engineer. Fan of TypeScript, Go (+ HTMX) and Rust. And a little obsessed with bears.
+I am Mat, a Principal Software Engineer. A fan of TypeScript, Go (+ HTMX), and Rust. And a little obsessed with bears.
 
 I've been coding since 2012 and have never stopped loving it. For me, each new programming task is like a small puzzle to solve - the more challenging, the better. And when I find an elegant and efficient solution ... that is truly satisfying.
 
-Currently have a pleasure of working at Solace as Head of Development.
+Currently, I have the pleasure of working at Solace as Head of Development.
 
 Creator of:
 
@@ -20,7 +20,9 @@ Creator of:
 
 - [UpSend](https://upsend.app) - The easiest way to manage files, images, and emails in your application. And it's free!
 
-Trying to spread the love for lesser-known technologies via Articles and Twitter. You can help out by following me :)
+I am also running a Discord server focused on modern web development, sharing articles, news, and ideas - [Discord](https://discord.com/invite/EdSZbQbRyJ)
+
+I'm trying to spread the love for lesser-known technologies via Articles and Twitter. You can help out by following me :)
 
 [Twitter]: https://img.shields.io/badge/Twitter-37a779?style=for-the-badge
 [Dev]: https://img.shields.io/badge/dev-37a779?style=for-the-badge
