@@ -8,11 +8,13 @@ I am Mat, a Principal Software Engineer. A fan of TypeScript, Go (+ HTMX), and R
 
 I've been coding since 2012 and have never stopped loving it. For me, each new programming task is like a small puzzle to solve - the more challenging, the better. And when I find an elegant and efficient solution ... that is truly satisfying.
 
-Currently, I have the pleasure of working at Solace as Head of Development.
+Currently, I have the pleasure of working at [Jump](https://jump.ai) - #1 AI assistant for financial advisors as Engineering Manager.
 
 Creator of:
 
 - [GoFast](https://gofast.live) - The Ultimate Go Foundation for High-Performance, Scalable, Modern Web Applications. Accelerate Development with a powerful CLI.
+
+- [HotGrid](https://hotgrid.app) - Manage your Hot Wheels collection with AI power. Snap a photo to extract data, find similar cars with vector search, and define your own dynamic datasets.
  
 - [SafeTrigger](https://safetrigger.app) - Zero-knowledge digital vault that lets you securely store, encrypt, and share sensitive files with trusted recipients—only when the time is right.
 
