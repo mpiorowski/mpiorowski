@@ -36,9 +36,9 @@ I'm trying to spread the love for lesser-known technologies via Articles and Twi
 ## My current tech stack
 | | |
 | :--- | :--- |
-| Languages | TypeScript, Go, Rust |
-| Frontend | React (Next.js), React Native, Svelte (SvelteKit), Vue (Nuxt) |
-| Backend & APIs | Go, Rust, Node.js, gRPC, GraphQL |
+| Languages | TypeScript, Go, Elixir, Rust |
+| Frontend | React (Next.js), React Native, Svelte (SvelteKit), Vue (Nuxt), Phoenix/LiveView |
+| Backend & APIs | Go, Elixir, Rust, Node.js, gRPC, GraphQL |
 | Databases | PostgreSQL, MySQL, SQLite, Redis |
 | Infrastructure & DevOps | Docker, Kubernetes, Google Cloud Platform |
 | Development Tools| Neovim, Git, Linux |
