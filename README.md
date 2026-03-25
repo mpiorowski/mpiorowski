@@ -1,7 +1,5 @@
 ![image](https://user-images.githubusercontent.com/26543876/236698648-8c1172c0-1f68-40ae-b15c-610abc9b138b.png)
 
-https://bearbyte.org/
-
 ## Hello
 
 I am Mat, a Principal Software Engineer. A fan of TypeScript, Go (+ HTMX), and Rust. And a little obsessed with bears.
