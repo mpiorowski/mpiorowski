@@ -2,7 +2,7 @@
 
 ## Hello
 
-I am Mat, a Principal Software Engineer. A fan of TypeScript, Go (+ HTMX), and Rust. And a little obsessed with bears.
+I am Mat, a Principal Software Engineer. A fan of TypeScript, Go, and Rust. And a little obsessed with bears.
 
 I've been coding since 2010 and have never stopped loving it. For me, each new programming task is like a small puzzle to solve - the more challenging, the better. And when I find an elegant and efficient solution ... that is truly satisfying.
 
