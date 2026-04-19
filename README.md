@@ -10,7 +10,7 @@ Currently, I have the pleasure of working at [Jump](https://jump.ai) - #1 AI ass
 
 Creator of:
 
-- [LateSH](https://late.sh) - A cozy terminal clubhouse for developers. Lofi beats, games, chat, and tech news - all via SSH. Just ssh late.sh and you're in.
+- [LateSH](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, games, chat, and tech news - all via SSH. Just ssh late.sh and you're in.
 
 - [GoFast](https://gofast.live) - The Ultimate Go Foundation for High-Performance, Scalable, Modern Web Applications. Accelerate Development with a powerful CLI.
 
