@@ -4,9 +4,9 @@
 
 I am Mat, a Principal Software Engineer. A fan of TypeScript, Go, and Rust. And a little obsessed with bears.
 
-I've been coding since 2010 and have never stopped loving it. For me, each new programming task is like a small puzzle to solve - the more challenging, the better. And when I find an elegant and efficient solution ... that is truly satisfying.
+Writing code since 2010. Still in it for the puzzle, and the clean solution at the end of it.
 
-Currently, I have the pleasure of working at [Jump](https://jump.ai) - #1 AI assistant for financial advisors as Engineering Manager.
+Currently, I have the pleasure of working as Engineering Manager at [Jump](https://jump.ai), #1 AI assistant for financial advisors.
 
 Creator of:
 
