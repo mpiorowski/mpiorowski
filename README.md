@@ -2,7 +2,7 @@
 
 ## Hello
 
-I am Mat, a Principal Software Engineer. A fan of TypeScript, Go, and Rust. And a little obsessed with bears.
+I am Mat, a Principal Software Engineer. Fan of Go, Rust, Elixir and TypeScript. And a little obsessed with bears.
 
 Writing code since 2010. Still in it for the puzzle, and the clean solution at the end of it.
 
